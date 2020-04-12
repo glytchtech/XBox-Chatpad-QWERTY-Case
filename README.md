@@ -1,5 +1,5 @@
 # XBox-Chatpad-QWERTY-Case
-##STL, firmware, and schematics for the modification of an XBox 360 chatpad into the USB phone keybaord case in this Hak5 video: https://youtu.be/mp3AnLrw9bA
+## STL, firmware, and schematics for the modification of an XBox 360 chatpad into the USB phone keybaord case in this Hak5 video: https://youtu.be/mp3AnLrw9bA
 If you'd like to support more projects like this one, be sure to check out my [Patreon!](https://patreon.com/glytchtech)
 
 
